@@ -1,0 +1,32 @@
+# =============================================================
+# CSE3231 — Machine Learning Lab | Wine Recognition Dataset
+# Python Dependencies
+# =============================================================
+# Install all at once:
+#   pip install -r requirements.txt
+# =============================================================
+
+# Core data science
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Deep Learning (Lab 10 — CNN)
+tensorflow>=2.13.0
+
+# NLP (Lab 11)
+nltk>=3.8.0
+
+# Generative AI (Lab 12)
+google-generativeai>=0.4.0
+python-dotenv>=1.0.0
+
+# Jupyter (optional — for running .ipynb notebooks)
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
